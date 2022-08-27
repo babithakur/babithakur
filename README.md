@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Babi Thakur (A$TRA)</h1>
+<h1 align="center">Hi 👋, I'm Babi (A$TRA)</h1>
 - 🌱 I’m currently learning **Pentesting & Cybersecurity**
 
 - 💬 Ask me about **Python, Linux**
